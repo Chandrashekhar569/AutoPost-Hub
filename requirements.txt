@@ -1,0 +1,10 @@
+langchain-core>=0.2.36
+langchain-openai>=0.2.0
+langgraph>=0.2.24
+pydantic>=2.7
+python-dotenv>=1.0
+requests>=2.32
+openai>=1.40
+Pillow>=10.3
+pyyaml>=6.0
+ics
